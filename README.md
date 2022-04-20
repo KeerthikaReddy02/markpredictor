@@ -1,11 +1,11 @@
-# markpredictor
+# Markpredictor
 
 With the growth of online learning platforms, educational data analytics and prediction has emerged as a promising study area that can aid in the creation of personalised learning systems. The use of Machine Learning to forecast academic performance in students aids future decision-making in the search for techniques that promote continual progress in student learning. The goal is not only to anticipate students' future performance, but also to find the best technique for identifying the most essential features that will be employed in the teacher's performance, as well as the student's motivation, which will ultimately enhance their grades. The most essential reference point for comparing the quality of pupils is their academic performance and application skills.
 
 # Attribute Information:
-1 school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
-2 sex - student's sex (binary: 'F' - female or 'M' - male)
-3 age - student's age (numeric: from 15 to 22)
+1 school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)\
+2 sex - student's sex (binary: 'F' - female or 'M' - male)\
+3 age - student's age (numeric: from 15 to 22)\
 4 address - student's home address type (binary: 'U' - urban or 'R' - rural)
 5 famsize - family size (binary: 'LE3' - less or equal to 3 or 'GT3' - greater than 3)
 6 Pstatus - parent's cohabitation status (binary: 'T' - living together or 'A' - apart)
