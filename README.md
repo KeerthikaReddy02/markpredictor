@@ -35,3 +35,5 @@ absences - number of school absences (numeric: from 0 to 93)\
 G1 - first period grade (numeric: from 0 to 20)\
 G2 - second period grade (numeric: from 0 to 20)\
 G3 - final grade (numeric: from 0 to 20, output target)\
+
+![Prediction page](https://user-images.githubusercontent.com/78225681/178311731-fe92d7d2-1386-4afc-9939-9abb55458ee9.png)
